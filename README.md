@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  [![3D Profile](https://img.shields.io/badge/Profile-3D%20Designed-blue?style=for-the-badge&logo=github)](https://github.com/aijay)
-  [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/aijay)
+  [![3D Profile](https://img.shields.io/badge/Profile-3D%20Designed-blue?style=for-the-badge&logo=github)]
+  [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]
   
 </div>
 
@@ -110,10 +110,10 @@
 
 | Platform | Link |
 |----------|------|
-| **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/aijay) |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aijay) |
-| **Email** | [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com) |
-| **Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=globe)](https://your-portfolio.com) |
+| **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)] |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin)]|
+| **Email** | [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)] |
+| **Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=globe)] |
 
 </div>
 
