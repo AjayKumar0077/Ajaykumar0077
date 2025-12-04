@@ -167,14 +167,14 @@
 This profile and all repositories are available under the MIT License. Feel free to use and modify!
 
 ```
-MIT License © 2025 - aijay
+MIT License © 2025 - Ajaykumar
 ```
 
 ---
 
 <div align="center">
   
-  **Made with ❤️ by ajaykumar**
+  **Made with ❤️ by Ajaykumar**
   
   *Building tomorrow's solutions, today.*
   
