@@ -6,7 +6,7 @@
   [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/aijay)
   
 </div>
-<center>
+<div align="center">
 ---
 
 ## 🎯 About Me
@@ -22,7 +22,7 @@
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
----  </center>
+---  </div>
 
 ## 💡 Key Projects
 
