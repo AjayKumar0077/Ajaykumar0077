@@ -7,22 +7,19 @@
   
 </div>
 <div align="center">
----
-
 ## 🎯 About Me
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
 ║                                                                ║
-║          🚀 Full Stack Developer | AI/ML Enthusiast 🤖         ║
+║          🚀 Full Stack Developer | AI/ML Enthusiast 🤖        ║
 ║                                                                ║
 ║  Passionate about building scalable applications, automating   ║
 ║  workflows, and exploring cutting-edge technologies.           ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
-
----  </div>
+</div>
 
 ## 💡 Key Projects
 
